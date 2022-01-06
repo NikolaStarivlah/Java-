@@ -1,0 +1,12 @@
+Nikola Starivlah
+starivln
+1 Milk Dairy 7.5
+2 Cookies Snacks 5.6
+3 Beans VegeTables 3.75
+4 Grapes Fruit 2.6
+5 Onions Vegetables 3.1
+6 Beef Meat 9.25
+7 Cheese Dairy 8.85
+8 Chips Snacks 2
+9 Orange Fruit 2.25
+10 Chicken Meat 3.45
